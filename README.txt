@@ -39,7 +39,7 @@ CRUD Project:
 
 Advanced C# Concepts:
 
-C# Database Driven WinForm Apps (step by step projects)
+
 
 
 
