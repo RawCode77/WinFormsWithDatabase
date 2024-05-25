@@ -1,5 +1,5 @@
 ================Introduction============
-Using C# and MS Access to create   small data-driven desktop apps
+Using C# and MS Access to create small data-driven desktop apps
 
 
 Introduce the basic concepts such as:
@@ -38,8 +38,6 @@ CRUD Project:
 -Passing data from one form to another
 
 Advanced C# Concepts:
-
-C# Database Driven WinForm Apps (step by step projects)
 
 
 

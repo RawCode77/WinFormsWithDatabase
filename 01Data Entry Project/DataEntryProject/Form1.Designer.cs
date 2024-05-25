@@ -253,6 +253,9 @@
         private System.Windows.Forms.Button btnPause;
         private System.Windows.Forms.Button btnStart;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtTimer;
+        private System.Windows.Forms.Timer timTimer;
+        
     }
 }
 
